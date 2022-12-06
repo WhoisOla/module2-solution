@@ -52,11 +52,11 @@ h1 {
   font-size: 25px;
   padding: 2%;
   padding-top: 55px;
-  background-color: rgba(6,8,0,0.3);
+  background-color: blue;
 }
 
 .name1{
-  background-color: #f5f5f5;
+  background-color: red;
 }
 
 .name2{
